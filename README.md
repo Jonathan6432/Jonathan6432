@@ -1,4 +1,4 @@
-![MasterHead](https://img.lovepik.com/background/20211020/large/lovepik-banner-background-of-e-commerce-technology-image_400051724.jpg)
+![MasterHead](https://img.freepik.com/foto-gratis/collage-fondo-programacion_23-2149901789.jpg?w=996&t=st=1706744045~exp=1706744645~hmac=f582f83164dc3df623eb07ca621fc3d891241566870536c7c336157d91571340)
 <h1 align="center">Hola 👋, soy Jonathan Córdoba</h1>
 <h3 align="center">"Nunca me conformo con lo que sé; siempre estoy buscando expandir mis conocimientos y habilidades en programación."</h3>
 
