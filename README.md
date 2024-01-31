@@ -1,16 +1,25 @@
-### Hi there 👋
+![MasterHead](https://thumbs.dreamstime.com/z/cogs-gears-industrial-global-business-background-integraci%C3%B3n-en-segundo-plano-ilustraci%C3%B3n-de-portada-banner-tecnolog%C3%ADa-binaria-180798145.jpg?w=992)
+<h1 align="center">Hola 👋, soy Jonathan Córdoba</h1>
+<h3 align="center">"Nunca me conformo con lo que sé; siempre estoy buscando expandir mis conocimientos y habilidades en programación."</h3>
 
-<!--
-**Jonathan6432/Jonathan6432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=jonathan6432&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan6432" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-tropico"><img src="https://github-profile-tropico.vercel.app/?username=jonathan6432" alt="jonathan6432" /></ a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Cómo comunicarse conmigo **jonathan.jc633@gmail.com**
+
+- ⚡ Dato curioso **"Disfruto explorar nuevas experiencias y aprender constantemente. Desde descubrir nuevas culturas hasta adquirir habilidades, encuentro inspiración en cada oportunidad de crecimiento y descubrimiento."**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jonathan- alejadro-cordoba-leiton-279110272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/linked-in-alt.svg" alt="jonathan-alejadro-cordoba-leiton-279110272/" height="30" width="40" /></a> </p>
+<
+
+h3 align ="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" ancho="40" alto="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </ a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang .org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height ="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https:// www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt= "php" ancho="40" alto="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/ api/top-langs?username=jonathan6432&show_icons=true&locale=en&layout=compact" alt="jonathan6432" /></p>
+
+<p> <img align="center" src="https://github-readme- stats.vercel.app/api?username=jonathan6432&show_icons=true&locale=en" alt="jonathan6432" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan6432&" alt="jonathan6432" /></p>
