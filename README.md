@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/z/cogs-gears-industrial-global-business-background-integraci%C3%B3n-en-segundo-plano-ilustraci%C3%B3n-de-portada-banner-tecnolog%C3%ADa-binaria-180798145.jpg?w=992)
+![MasterHead](https://img.lovepik.com/background/20211020/large/lovepik-banner-background-of-e-commerce-technology-image_400051724.jpg)
 <h1 align="center">Hola 👋, soy Jonathan Córdoba</h1>
 <h3 align="center">"Nunca me conformo con lo que sé; siempre estoy buscando expandir mis conocimientos y habilidades en programación."</h3>
 
